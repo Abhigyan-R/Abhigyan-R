@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhigyan Ranjan
+- 👋 Hi, I’m Abhigyan.
 - 👀 I’m currently a student by profession.
 - 🌱 I’m currently learning Mechatronics Engineering
 - 💞️ I love to code on Javascript, C and Arduino
