@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhigyan.
-- 👀 I’m currently a student by profession.
+- 👀 Founder by heart.
 - 🌱 I’m currently learning Mechatronics Engineering.
 - 💞️ I love to code on Javascript, C and Arduino.
 - 📫 Also I love helping others a lot. Feel free to ask for any kind of help with the above mentioned languages.
